@@ -1,2 +1,8 @@
 # Helper files
 tasks.md
+
+# Environment
+.venv/
+
+# Cache Files
+__pycache__/
