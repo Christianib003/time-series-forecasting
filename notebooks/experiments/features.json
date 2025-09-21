@@ -1,0 +1,20 @@
+[
+  "No",
+  "DEWP",
+  "TEMP",
+  "PRES",
+  "Iws",
+  "Is",
+  "Ir",
+  "cbwd_NW",
+  "cbwd_SE",
+  "cbwd_cv",
+  "hour",
+  "day_of_week",
+  "month",
+  "day_of_year",
+  "sin_hour",
+  "cos_hour",
+  "sin_doy",
+  "cos_doy"
+]

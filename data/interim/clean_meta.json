@@ -1,0 +1,33 @@
+{
+  "n_train_rows": 28755,
+  "n_test_rows": 13148,
+  "dropped_train_missing_target": 1921,
+  "train_time_min": "2010-01-02T00:00:00",
+  "train_time_max": "2013-07-02T03:00:00",
+  "test_time_min": "2013-07-02T04:00:00",
+  "test_time_max": "2014-12-31T23:00:00",
+  "columns": [
+    "No",
+    "DEWP",
+    "TEMP",
+    "PRES",
+    "Iws",
+    "Is",
+    "Ir",
+    "datetime",
+    "cbwd_NW",
+    "cbwd_SE",
+    "cbwd_cv",
+    "pm2.5",
+    "pm2_5",
+    "hour",
+    "day_of_week",
+    "month",
+    "day_of_year",
+    "sin_hour",
+    "cos_hour",
+    "sin_doy",
+    "cos_doy",
+    "split"
+  ]
+}

@@ -1,0 +1,2 @@
+timestamp,model,lookback,features,layers,units,dropout,recurrent_dropout,optimizer,lr,batch,epochs,clipnorm,target_transform,cv_rmse_mean,cv_rmse_std,notes
+2025-09-21T16:16:15.908072,LSTM,168,18,2,64,0.2,0.0,Adam,0.001,64,50,1.0,log1p,45.15601,20.073772,baseline LSTM
