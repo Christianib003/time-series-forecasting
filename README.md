@@ -12,7 +12,7 @@ The methodology follows an iterative experimentation process, starting with a si
 The repository is organized to maintain a clean and professional workflow, separating data, code, notebooks, and results.
 
 
-
+```
 .
 ├── data/                 \# Raw data files (train.csv, test.csv)
 ├── notebooks/            \# Jupyter notebooks for each experiment
@@ -21,7 +21,7 @@ The repository is organized to maintain a clean and professional workflow, separ
 ├── src/                  \# Reusable Python modules (data\_utils.py, model\_utils.py)
 └── submissions/          \# Generated submission files (.csv)
 └── figures/              \# Generated data visualizations
-
+```
 
 
 
