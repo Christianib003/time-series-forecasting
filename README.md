@@ -20,6 +20,9 @@ The repository is organized to maintain a clean and professional workflow, separ
 │   ├── models/
 ├── src/                  \# Reusable Python modules (data\_utils.py, model\_utils.py)
 └── submissions/          \# Generated submission files (.csv)
+└── figures/              \# Generated data visualizations
+
+
 
 
 
@@ -86,7 +89,7 @@ A flexible `build_model` function was created for rapid experimentation. All mod
 
 ## 6. Experiment Results
 
-The following table, consistent with the final report, summarizes the 15 key experiments conducted to systematically improve model performance.
+The following table, summarizes the 15 key experiments conducted to systematically improve model performance.
 
 | **Exp. ID** | **Model Type** | **Sequence Length** | **Scaler** | **Architecture Details** | **Batch Size** | **Dropout** | **Validation RMSE** | **Kaggle Public RMSE** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
